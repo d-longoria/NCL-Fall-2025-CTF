@@ -39,11 +39,13 @@ It was a good and bad thing that I was unable to complete the Practice Game beca
 
 Finally, it was time for the Team Game to start, and it started off rough. We started with no team captain and we ended up losing 2 team members before the game started. Luckily, we were able to get a volunteer team captain, and co-team captain, to set up everything we needed in time for the game's start. It was unfortunate that we only had 4 members on our team, but fortunately enough my team members were great and we were able to get a lot done the first 2 days. The challenges did seem harder on the team game and I was struggling to answer challenges that I could answer on the Individual Game so I felt like I was pulling the team back a little bit. I did my best and tried to help my team where I could, but in reality I learned a lot from them and was happy to be teamed up with them.
 
-Overall, my experience in the NCL Fall 2025 CTF was great and I learned a lot about my strong and weak
+Overall, my experience in the NCL Fall 2025 CTF was great and I learned a lot about my strong and weak points. I know now what I need to spend more practice on in order to be better well-rounded. I also learned the practical use of a lot of the things that I learned and was able to see how they work through my own personal experience and I believe that kind of information is the best to have. This was my first CTF event, but I don't think it will be my last. 
 
 ## Highlights from my CTF participation
 
+After reflecting on my CTF experience I was able to look back and find some of the highlight moments, and moments that made the CTF experience well worth it. A lot of my highlights come from moments of struggle and moments of doubt. For example, in the Individual Game there was an Open Source Intelligence question that I was stuck on for a long time. I was frustrated that I couldn't figure out the challenge because I had already got most of the important information I needed to solve the challenge. It wasn't until I utilized all of my past notes, material, and knowledge that I was finally able to complete the challenge and climb that hill. I learned from that challenge to utilize every single possible resources because it only takes one thing to reach the next step and get close to completing challenges.
 
+The second, and possibly biggest, highlight from the CTF was during the team challenge. At first I was upset that we were already down many team members and didn't have a team captain, and I thought for sure that we were going to place terribly in the event. However, after talking with my team and going through challenges I was learning a lot more than I did on the other games. Despite being handicapped my team placed very well overall and that was because our team-work and ability to overcome challenges.
 
 
 
